@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MilrackDev
 
 You can use the [editor on GitHub](https://github.com/milrackdev/web/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/l3wjN4datGs/0.jpg)](http://www.youtube.com/watch?v=l3wjN4datGs "Everything Is AWESOME")
