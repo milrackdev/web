@@ -1,2 +1,2 @@
 # web
-Pagina web de mirackdev
+cryptodius en construcción
